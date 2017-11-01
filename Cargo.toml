@@ -1,0 +1,10 @@
+[package]
+name = "backlightd"
+version = "0.1.0"
+authors = ["Jasper Bryant-Greene <jbg@rf.net.nz>"]
+
+[dependencies]
+clippy = {version = "*", optional = true}
+
+[features]
+default = []
